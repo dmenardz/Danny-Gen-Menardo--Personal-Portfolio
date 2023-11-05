@@ -45,7 +45,7 @@
 #header .slicknav_nav a:hover,
 #header .slicknav_nav a:focus
 #header .slicknav_nav a:active{
-	color:#ED5F55;
+	color:#7baae5;
 }
 #header .slicknav_nav a i{
 	margin-right:10px;
@@ -55,10 +55,10 @@
 	color:#353535;
 }	
 #header.sticky .slicknav_nav a:hover{
-	color:#ED5F55;
+	color:#7baae5;
 }
 #header.sticky .slicknav_btn{
-	background:#ED5F55;
+	background:#7baae5;
 	color:#fff;
 }
 #header .social-icon{
@@ -173,7 +173,7 @@
 #header .slicknav_nav a:hover,
 #header .slicknav_nav a:focus
 #header .slicknav_nav a:active{
-	color:#ED5F55;
+	color:#7baae5;
 }
 #header .slicknav_nav a i{
 	margin-right:10px;
@@ -183,10 +183,10 @@
 	color:#353535;
 }	
 #header.sticky .slicknav_nav a:hover{
-	color:#ED5F55;
+	color:#7baae5;
 }
 #header.sticky .slicknav_btn{
-	background:#ED5F55;
+	background:#7baae5;
 	color:#fff;
 }
 #header .social-icon{

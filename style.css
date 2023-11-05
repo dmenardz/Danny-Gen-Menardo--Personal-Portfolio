@@ -167,7 +167,7 @@
 	height: 20px;
 	line-height: 20px;
 	text-align: center;
-	border-radius: 100%;
+	border-radius: 2px;
 	font-size: 13px;
 }
 #header .social {
@@ -1239,6 +1239,7 @@
 #testimonials {
 	background: url('images/back2.png');
 	background-size: cover;
+	height: 100%;
 	background-position: center;
 	position: relative;
 	background-attachment: fixed;
@@ -1313,7 +1314,6 @@
 #testimonials .rating li{
 	display:inline-block;
 }
-#testimonials .owl-nav{}
 #testimonials .owl-nav div {
 	position: absolute;
 	top: 50%;
